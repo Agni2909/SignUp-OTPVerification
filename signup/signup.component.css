@@ -1,0 +1,30 @@
+.text-line {
+    background-color: transparent;
+    color: #000000;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #b89f9f 1px;
+    padding: 3px 10px;
+}
+
+.lineHeight{
+    line-height: 80%;
+}
+
+.inputWithIcon input[type=text]{
+    padding-left: 60px;
+}
+
+.inputWithIcon {
+    position: relative;
+}
+
+.inputWithIcon{
+    left: 0;
+    padding: 9px 8px;
+    color: rgb(233, 218, 218);
+    transition: 3s;
+}
